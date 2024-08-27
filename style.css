@@ -1,0 +1,15 @@
+table, th, td {
+    border: solid 1px;
+}
+.produtos{
+    background-color: grey;
+}
+.titulo{
+    background-color: blueviolet;
+}
+.valores{
+    background-color: green;
+}
+.rodape{
+    background-color: seagreen;
+}
